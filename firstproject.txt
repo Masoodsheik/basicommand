@@ -1,1 +1,3 @@
 git  basic commands
+updatin few commands
+like git add.
